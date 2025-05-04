@@ -194,7 +194,8 @@ python cli_tools.py --auto-backup --destination cloud
 # En reporting.py
 SMTP_SERVER = "smtp.office365.com"
 SMTP_PORT = 587
-EMAIL_CREDENTIALS = "encrypted_credentials.key"
+EMAIL = "tere@gmail.com"
+CONTRASENA_APLICATION = "erdx zdqn anfr ryvq"
 ```
 
 ## Solución de Problemas
