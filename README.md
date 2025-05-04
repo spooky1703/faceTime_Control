@@ -121,10 +121,9 @@ SALTAR_DETECCION_VIVACIDAD = False  # True solo para entornos de desarrollo
    - para mayor seguridad la contraseña del correo que envia 
      solo será aceptada si es contraseña de aplicacion
 
-3. 📊 Reportes y Auditoría
-   - Exportación CSV/PDF
-   - Filtros por fecha/departamento
-   - Estadísticas de cumplimiento
+3. 📊 Mostrar registros
+   - Muestra una tabla con los registros de entrada y salida
+   - exportable a PDF y vinculado a Configurar Email para enviarlo a donde se configure
 
 4. 🔒 Seguridad
    - Rotación de credenciales
