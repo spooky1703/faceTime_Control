@@ -102,7 +102,7 @@ SALTAR_DETECCION_VIVACIDAD = False  # True solo para entornos de desarrollo
 ## Guía de Uso
 
 ### Interfaz Principal
-![Captura de Interfaz Principal](assets/main_ui.png)
+![Captura de Interfaz Principal](assets/interfaz.png)
 - **Acceso Administrador**: Requiere autenticación con contraseña
 - **Modo Trabajo**: Inicio rápido para registro de asistencia
 - **Salir**: Cierre seguro del sistema
