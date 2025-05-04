@@ -59,7 +59,7 @@ FaceTime Control es una solución empresarial integral para el registro de asist
 ## Instalación
 ### 1. Clonar Repositorio
 ```bash
-git clone https://github.com/tu-usuario/faceTime_Control.git
+git clone https://github.com/spooky1703/faceTime_Control.git
 cd faceTime_Control
 ```
 
