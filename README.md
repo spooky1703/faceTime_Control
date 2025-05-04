@@ -243,8 +243,10 @@ R: Sí, mediante nuestro modelo FaceNet-Mask (activar en configuración avanzada
 ---
 
 **Equipo de Desarrollo**  
-[Tu Nombre] - Ingeniero Líder  
-contacto@tudominio.com  
-[![Twitter](https://img.shields.io/twitter/follow/tu_usuario?style=social)](https://twitter.com/tu_usuario)
-
-**Documentación Técnica Completa:** [Ver Wiki](https://github.com/tu-usuario/faceTime_Control/wiki)
+_____                   __        
+  / ___/____  ____  ____  / /____  __
+  \__ \/ __ \/ __ \/ __ \/ //_/ / / /
+ ___/ / /_/ / /_/ / /_/ / ,< / /_/ / 
+/____/ .___/\____/\____/_/|_|\__, /  
+    /_/                     /____/
+Ingeniero Líder  
