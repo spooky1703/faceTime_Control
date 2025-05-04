@@ -115,10 +115,11 @@ SALTAR_DETECCION_VIVACIDAD = False  # True solo para entornos de desarrollo
    - Edición de perfiles
    - Eliminación segura (GDPR compliant)
 
-2. ⚙️ Configuración del Sistema
-   - Parámetros de reconocimiento
-   - Umbrales de seguridad
-   - Integración SMTP
+2. ⚙️ Configuración Email
+   - uso del server SMTP
+   - puerto configurable
+   - para mayor seguridad la contraseña del correo que envia 
+     solo será aceptada si es contraseña de aplicacion
 
 3. 📊 Reportes y Auditoría
    - Exportación CSV/PDF
