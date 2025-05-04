@@ -239,14 +239,13 @@ R: Sí, mediante nuestro modelo FaceNet-Mask (activar en configuración avanzada
 - Optimización de consumo de recursos
 
 
-
----
-
 **Equipo de Desarrollo**  
-_____                   __        
+```
+   _____                   __        
   / ___/____  ____  ____  / /____  __
   \__ \/ __ \/ __ \/ __ \/ //_/ / / /
  ___/ / /_/ / /_/ / /_/ / ,< / /_/ / 
 /____/ .___/\____/\____/_/|_|\__, /  
     /_/                     /____/
+```
 Ingeniero Líder  
