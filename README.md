@@ -103,9 +103,9 @@ SALTAR_DETECCION_VIVACIDAD = False  # True solo para entornos de desarrollo
 
 ### Interfaz Principal
 ![Captura de Interfaz Principal](assets/interfaz.png)
-- **Acceso Administrador**: Requiere autenticación con contraseña
-- **Modo Trabajo**: Inicio rápido para registro de asistencia
-- **Salir**: Cierre seguro del sistema
+- **OPERACIONES DE ADMINISTRADOR**: Requiere autenticación con contraseña
+- **MODO TRABAJO**: Inicio rápido para registro de asistencia
+- **X**: Cierre seguro del sistema
 
 ### Operaciones de Administrador
 **Panel de Control:**  
