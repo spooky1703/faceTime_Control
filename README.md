@@ -249,4 +249,3 @@ R: Sí, mediante nuestro modelo FaceNet-Mask (activar en configuración avanzada
 /____/ .___/\____/\____/_/|_|\__, /  
     /_/                     /____/
 ```
-Ingeniero Líder  
