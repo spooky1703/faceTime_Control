@@ -61,13 +61,17 @@ class AplicacionPrincipal:
 
         try:
             from PIL import Image, ImageTk
-            img_logo = Image.open("/Users/alonsomota/Desktop/try/faceTime_Control/assets/fondoFinal.png")
+            script_dir = os.path.dirname(os.path.abspath(__file__))
+            assets_dir = os.path.abspath(os.path.join(script_dir, "..", "assets"))
+            img_path = os.path.join(assets_dir, "fondoFinal.png")
+            
+            img_logo = Image.open(img_path)
             img_logo = img_logo.resize((1300, 550), Image.Resampling.LANCZOS)
             self.logo_tk = ImageTk.PhotoImage(img_logo)
             
             lbl_logo = tk.Label(marco_principal, 
-                              image=self.logo_tk, 
-                              bg='#255b79')
+                            image=self.logo_tk, 
+                            bg='#255b79')
             lbl_logo.pack(pady=(40, 20))
             lbl_logo.image = self.logo_tk
             
